@@ -9,7 +9,7 @@ st.set_page_config(page_title="Skills Demo App", layout="wide")
 st.title("📊 Technical Skills Showcase")
 
 st.markdown("""
-Welcome! This Streamlit demo application is designed to showcase core technical skills through the analysis of logistics-related data. Here's what the app does:
+Welcome! This simple Streamlit demo application is designed to showcase core technical skills through the analysis of data. Here's what the app does:
 
 1. 📥 Accepts a logistics CSV file (or uses sample data).
 2. 🔍 Displays the dataset, basic stats, and missing values.
@@ -25,9 +25,9 @@ This app highlights skills in data analysis, pricing logic, SQL querying, and vi
 st.sidebar.title("👤 About Me")
 st.sidebar.info("""
 This app demonstrates:
-- Analytical Skills
+- I am using streamlit library to deploy this app
 - Pricing Competency
-- Data Tools (Excel/SQL)
+- Data Tools (Excel/SQL/Python)
 """)
 
 st.sidebar.markdown("---")
