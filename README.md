@@ -1,6 +1,8 @@
 
 # 📊 Technical Skills Showcase — Streamlit Demo App
 
+[![Streamlit App](https://img.shields.io/badge/Live%20App-Click%20to%20View-brightgreen?style=for-the-badge&logo=streamlit)](https://margin-price-data-demo-app-dah8v5gx8khbx4xtzopbxd.streamlit.app/)
+
 This Streamlit application is a hands-on demo designed to showcase core technical skills related to data analysis, pricing logic, SQL querying, and visualization. It simulates a simple real-world logistics dataset analysis workflow and serves as a personal project to practice and demonstrate the following:
 
 - 📊 **Data Analysis** with pandas
