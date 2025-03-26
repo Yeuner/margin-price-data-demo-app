@@ -45,7 +45,7 @@ This Streamlit application is a hands-on demo designed to showcase core technica
 
 4. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run data-app-demo.py
    ```
 
 ---
